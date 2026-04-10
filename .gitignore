@@ -1,0 +1,20 @@
+# Entornos
+bodyenv/
+myenv/
+
+# Modelos pesados
+*.pt
+*.pth
+checkpoints/
+
+# Logs
+logs/
+slurm-*.out
+*.err
+
+# Outputs
+data/output/
+
+# Cache
+__pycache__/
+*.pyc
