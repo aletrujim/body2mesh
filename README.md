@@ -161,9 +161,7 @@ Please cite the corresponding publication when using the code, data, or derived 
 
 **Magda Alexandra Trujillo-Jiménez**
 
-Imaging Science Laboratory (LCI-UNS)
-Patagonian Institute of Social and Human Sciences (IPCSH-CONICET)
-Puerto Madryn, Argentina
+Patagonian Institute of Social and Human Sciences (IPCSH-CONICET) & Imaging Science Laboratory (LCI-UNS).
 
 GitHub: https://github.com/aletrujim
 
