@@ -58,6 +58,7 @@ body2mesh/
 ├── notebooks/            # Analysis and visualization notebooks
 ├── tests/                # Validation scripts
 ├── run_body2mesh.sh      # HPC execution script
+├── measures/             # Obtain 3D anthropometric measurements 
 ├── requirements.txt
 └── README.md
 ```
